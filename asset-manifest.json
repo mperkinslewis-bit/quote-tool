@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/quote-tool/static/css/main.e6c13ad2.css",
-    "main.js": "/quote-tool/static/js/main.8d720313.js",
+    "main.js": "/quote-tool/static/js/main.e6ed6d06.js",
     "static/js/453.b5e597a0.chunk.js": "/quote-tool/static/js/453.b5e597a0.chunk.js",
     "index.html": "/quote-tool/index.html",
     "main.e6c13ad2.css.map": "/quote-tool/static/css/main.e6c13ad2.css.map",
-    "main.8d720313.js.map": "/quote-tool/static/js/main.8d720313.js.map",
+    "main.e6ed6d06.js.map": "/quote-tool/static/js/main.e6ed6d06.js.map",
     "453.b5e597a0.chunk.js.map": "/quote-tool/static/js/453.b5e597a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8d720313.js"
+    "static/js/main.e6ed6d06.js"
   ]
 }
